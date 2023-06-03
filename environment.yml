@@ -4,7 +4,13 @@ channels:
   - anaconda
   - defaults
 dependencies:
-    - pip
+  - pip
   - python=3.11.3
-  - pip:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - seaborn
     
